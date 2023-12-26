@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerQueue", "ServerQueue\ServerQueue.csproj", "{E5B082B3-3B37-418D-BBCC-912C7301AB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B082B3-3B37-418D-BBCC-912C7301AB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B082B3-3B37-418D-BBCC-912C7301AB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B082B3-3B37-418D-BBCC-912C7301AB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B082B3-3B37-418D-BBCC-912C7301AB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
